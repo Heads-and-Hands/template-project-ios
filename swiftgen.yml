@@ -1,0 +1,10 @@
+input_dir: templateProject/Resources/
+output_dir: templateProject/Classes/UIKit/Extensions/
+strings:
+    paths: ru.lproj/Localizable.strings
+    templateName: structured-swift4
+    output: Strings.swift
+xcassets:
+    paths: Assets.xcassets
+    templateName: swift4
+    output: Images.swift
